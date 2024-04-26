@@ -5,3 +5,15 @@
 
 #### Command:
 ```bash
+https://github.com/bhuvanesh8054/LoginIn.git
+
+
+Step 2: Install Dependencies
+Prerequisites:
+Node.js and npm should be installed on your machine.
+
+npm install
+
+
+Step 3: Run the Project
+  npm start
